@@ -3,4 +3,4 @@ new-course
 # git
 ## nodes project
 
-** ahmed myname **
+* ahmed myname *
